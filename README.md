@@ -1,6 +1,8 @@
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/burkesquires/NIH_Hour_of_Code_2017/master)
 
-# NIH Hour of Code 2017
+# Build a Reproducible Workflow From Scratch (in about an hour)
+
+## NIH Hour of Code 2017
 
 R. Burke Squires
 
