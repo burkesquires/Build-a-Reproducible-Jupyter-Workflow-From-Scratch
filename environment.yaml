@@ -1,0 +1,11 @@
+name: jupyter_bioconda
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+- python=3.6
+- bwa
+- samtools
+- bcftools
+- curl
+- head
